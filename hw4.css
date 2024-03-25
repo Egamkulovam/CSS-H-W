@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+div{
+    background-color: aliceblue;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 50px;
+    border-radius: 10px;
+}
+input{
+    border: solid 1px;
+    border-radius: 10px;
+    border: none;
+
+    background-color: burlywood;
+    
+}
+p{
+    border: solid 1px;
+    background-color: burlywood;
+    border-radius: 10px;
+}
+.b{
+    border: solid 1px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+textarea{
+    background-color: burlywood;
+}
