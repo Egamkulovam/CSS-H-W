@@ -1,0 +1,23 @@
+body{
+    background-color: green;
+    text-align: left;
+}
+
+.divs{
+    background-color: white;
+    margin-top: 35px;
+    margin-left: 150px;
+    
+    margin-right: 150px;
+}
+.b{
+    background-color: rgb(61, 255, 47);
+    width: 300px;
+    margin-left: 10px;
+}
+#t{
+    margin-left: 10px;
+}
+#l{
+    text-align: center;
+}
